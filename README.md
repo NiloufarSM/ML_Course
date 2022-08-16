@@ -24,8 +24,3 @@ There are 5 training and test datasets you could run the program on any of them 
 ### for KNN
 Open the file KNN.R
 Set the K value to the value you want and run the program
-
-## Author
-
-* **Niloufar Seyed Majidi** 
-In case of any issue contact "nilufar.majidi@gmail.com"
