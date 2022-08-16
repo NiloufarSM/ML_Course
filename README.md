@@ -1,6 +1,10 @@
 # Machine Learning Project
 
-implementation of K-nearest neighbours and naive Bayes classifiers in R 
+Implementation of machine learning classifiers in R and their usage in a real project
+
+## Project Description
+
+We were given a dataset of protein corona fingerprints which includes 122 proteins with gold or silver cores and we were asked to predict the toxicity of a new protein using machine learning algorithms. In this project we precisely used naïve Bayes classifier, k-nearest neighbors algorithm and multiple linear regression.
 
 ## Getting Started
 
