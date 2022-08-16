@@ -6,6 +6,9 @@ Implementation of machine learning classifiers in R and their usage in a real pr
 
 We were given a dataset of protein corona fingerprints which includes 122 proteins with gold or silver cores and we were asked to predict the toxicity of a new protein using machine learning algorithms. In this project we precisely used naïve Bayes classifier, k-nearest neighbors algorithm and multiple linear regression.
 
+You can read the final report in [a relative link](ML_report.pdf)
+ 
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -21,10 +24,10 @@ To run the program on your computer you have to change the location in the first
 for example:
 	setwd("Location/of/datafile/")
 
-### for naive Bayes
+### Naive Bayes
 Open the file NB.R
 There are 5 training and test datasets you could run the program on any of them you want by changing the number of arguments for example train.2 and test.2
 
-### for KNN
+### KNN
 Open the file KNN.R
 Set the K value to the value you want and run the program
